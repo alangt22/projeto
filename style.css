@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(to bottom, #570454, #0b0b0b);
+    min-height: 100vh;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2em;
+  }
+  
+  input[type="number"] {
+    font-size: 1.2em;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(15, 15, 15);
+    border-radius: 5px;
+    
+  }
+  
+  button {
+    background: linear-gradient(to bottom, #000000, #1d1d1d);
+    color: white;
+   
+    padding: 5px 10px;
+   
+  
+  
+   
+  
+ 
+  }
+  
+  #message {
+    font-size: 1.5em;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 20px;
+  }
